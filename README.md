@@ -11,7 +11,7 @@
 
 # Seaport
 
-Seaport is a new marketplace protocol for safely and efficiently buying and selling NFTs.
+Seaport is a new marketplace protocol for safely and efficiently buying and selling NFTs. 
 
 ## Table of Contents
 
